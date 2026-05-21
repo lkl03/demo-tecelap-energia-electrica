@@ -1,2 +1,7 @@
-# demo-tecelap-energia-electrica
-Demo web para TECELAP - ENERGÍA ELÉCTRICA — diseñada por eterlab.
+# TECELAP - ENERGÍA ELÉCTRICA
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
